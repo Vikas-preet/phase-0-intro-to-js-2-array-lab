@@ -48,4 +48,4 @@ beforeEach();
 function removeFirstCat(){
     return cats.slice(-2);
 }
-beforeEach();
+//beforeEach();
